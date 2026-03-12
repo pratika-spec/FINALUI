@@ -1,0 +1,98 @@
+Table 1: Operations and Procedures by Age Groups
+
+| No. | Age Group     | Total |
+|-----|---------------|-------|
+| 1   | Under 1       | 60,795|
+| 2   | 1 - 5         | 644   |
+| 3   | 5 - 10        | 2,038 |
+| 4   | 10 - 15       | 373   |
+| 5   | 15 - 20       | 431   |
+| 6   | 20 - 25       | 133   |
+| 7   | 25 - 30       | 328   |
+| 8   | 30 - 35       | 729   |
+| 9   | 35 - 40       | 391   |
+| 10  | 40 - 45       | 652   |
+| 11  | 45 - 50       | 199   |
+| 12  | 50 - 55       | 958   |
+| 13  | 55 - 60       | 301   |
+| 14  | 60 - 65       | 1,382 |
+| 15  | 65 - 70       | 665   |
+| 16  | 70 - 75       | 1,945 |
+| 17  | 75 - 80       | 508   |
+| 18  | 80 - 85       | 1,788 |
+| 19  | 85 - 90       | 792   |
+| 20  | 90 - 95       | 1,744 |
+| 21  | 95 and older  | 704   |
+
+Table 2: Number of Procedures by Category
+
+| No. | Category                           | Number    |
+|-----|------------------------------------|-----------|
+| 1   | Total                              | 60,795    |
+| 2   | Diagnostic Procedures              | 10,064,944|
+| 3   | Clinical Examination               | 20,158    |
+| 4   | Examination of Body Systems         | 3,521,115 |
+| 5   | Biopsy without Incision             | 1,368,744 |
+| 6   | Biopsy with Incision                | 94,616    |
+| 7   | Diagnostic Endoscopy                | 3,147,578 |
+| 8   | Functional Tests                    | 1,080,713 |
+| 9   | Exploratory Diagnostic Procedures   | 259,596   |
+| 10  | Other Diagnostic Procedures         | 572,424   |
+| 11  | Imaging Diagnostics                 | 13,867,968|
+| 12  | Ultrasound Examinations             | 1,537,544 |
+| 13  | Projection Radiography              | 387,064   |
+| 14  | Computed Tomography (CT)            | 6,794,197 |
+| 15  | Optical Procedures                  | 43,802    |
+| 16  | Vascular Imaging                    | 650,501   |
+| 17  | Nuclear Medicine Diagnostics        | 283,353   |
+| 18  | Magnetic Resonance Imaging (MRI)    | 1,919,238 |
+| 19  | Other Imaging Procedures            | 32,865    |
+| 20  | Additional Information on Imaging   | 2,219,404 |
+| 21  | Surgeries                           | 15,838,178|
+| 22  | Nervous System Operations           | 789,375   |
+| 23  | Operations on Endocrine Glands       | 133,248   |
+| 24  | Eye Operations                      | 604,335   |
+| 25  | Ear Operations                      | 118,968   |
+| 26  | Nose and Sinus Operations           | 347,352   |
+| 27  | Oral and Facial Operations          | 207,929   |
+| 28  | Pharynx, Larynx, and Trachea Operations | 106,380 |
+| 29  | Lung and Bronchus Operations        | 169,308   |
+| 30  | Heart Operations                    | 385,058   |
+| 31  | Blood Vessel Operations              | 675,861   |
+| 32  | Hematopoietic and Lymphatic System Operations | 192,470 |
+| 33  | Digestive Tract Operations           | 2,466,765 |
+| 34  | Urinary System Operations            | 561,734   |
+| 35  | Male Genital Organ Operations        | 212,557   |
+| 36  | Female Genital Organ Operations      | 572,967   |
+| 37  | Obstetric Operations                 | 961,064   |
+| 38  | Jaw and Facial Bone Operations       | 76,370    |
+| 39  | Musculoskeletal Operations           | 4,357,197 |
+| 40  | Breast Operations                    | 157,485   |
+| 41  | Skin and Subcutaneous Tissue Operations | 1,233,516 |
+| 42  | Other Operations                     | 1,508,239 |
+| 43  | Medications                          | 408,084   |
+| 44  | Application of Medications           | 408,084   |
+| 45  | Non-operative Therapeutic Measures   | 14,640,664|
+| 46  | Application of Medications and Therapeutic Injections | 376,690 |
+| 47  | Immunotherapy                       | 6,263     |
+| 48  | Removal of Foreign Bodies and Concretions | 37,576 |
+| 49  | Manipulation of Digestive and Urinary Tract | 723,782 |
+| 50  | Therapeutic Catheterization, Aspiration, Puncture, and Irrigation | 473,133 |
+| 51  | Bandages                            | 293,279   |
+| 52  | Closed Reduction and Correction of Deformities | 48,064 |
+| 53  | Immobilization and Special Positioning | 149,813   |
+| 54  | Bone Extension and Other Extension Procedures | 4,328   |
+| 55  | Hemostasis and Fetal or Uterine Manipulation | 73,908 |
+| 56  | Radiation Therapy, Nuclear Medicine Therapy, and Chemotherapy | 914,360 |
+| 57  | Early Rehabilitation and Physical Therapy | 805,798 |
+| 58  | Electrical Stimulation and Electrotherapy | 306,522   |
+| 59  | Measures for the Respiratory System | 774,636   |
+| 60  | Resuscitation Measures              | 89,371    |
+| 61  | Measures for the Circulatory System | 4,560,834 |
+| 62  | Cell Therapy and Blood Component Therapy | 2,818   |
+| 63  | Anesthesia and Pain Therapy          | 1,083,491 |
+| 64  | Patient Monitoring                  | 2,361,922 |
+| 65  | Other Complementary Measures and Information | 3,769,168 |
+| 66  | Unknown Operation/Procedure          | 15,921    |
+
+Note: The data represents the number of procedures performed in German hospitals in 2021, categorized by age groups and specific procedures.

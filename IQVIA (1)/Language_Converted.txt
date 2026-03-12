@@ -1,0 +1,128 @@
+Context: Health
+Case-related hospital statistics (DRG statistics)
+Operations and procedures for inpatient patients in hospitals (4 digits)
+Note:
+This publication will be published for the last time with the 2021 edition and will be replaced by a new publication product.
+Use (already now) our database GE NESIS-Online, which contains the desired results in the health topic 23141.
+2021
+Publication frequency: annually
+Published on 22.09.2022
+Article number: 5231401217014
+
+Contact us:
+www.destatis.de/kontakt
+Telephone: +49 (0)611/752405
+© Federal Statistical Office (Destatis), 2022
+Reproduction and distribution, even in part, permitted with source reference.
+Federal Statistical Office knowledge.use.Table of Contents
+Explanations on the DRG data 2021 and the collection characteristics 2021
+DRG statistics 2021
+Operations and procedures based on the 4-digit OPS for inpatient patients in hospitals
+1 Operations and procedures (OPS Version 2021)
+1.1 According to category headings and age groups
+1.1.1 Overall
+1.1.2 Male
+1.1.3 Female
+1.2 According to category headings and federal states (hospital location)
+1.2.1 Overall
+1.2.2 Male
+1.2.3 Female
+1.3 Operations and procedures at the level of the 4-digit OPS code and age groups
+1.3.1 Overall
+1.3.2 Male
+1.3.3 Female
+Excerpt from the detailed presentation (Paid product: 120 EUR)
+Excerpt Content
+Operations and procedures until the codable endpoint by age groups
+- Overall (Excerpt)
+- Male (Excerpt)
+- Female (Excerpt)
+Appendix- OPS Version 2021- Quality report
+Legend
+- Nothing available. Numeric value unknown or to be kept confidential/ No information, as numeric value is not sufficiently reliableContext: Explanations
+Based on the Diagnosis Related Group statistics (DRG statistics), approximately 16.2 million patients were discharged from inpatient hospital treatment in 2021. In total, 60.7 million surgeries and medical procedures were performed. The number of hospital cases in which a surgery or medical procedure was performed was 14.8 million. On average, 4 measures were carried out for each of these cases in 2021.
+This publication contains all operation and procedure codes at the OPS-4 level (without duplicates at the codable endpoint level) for inpatient patients discharged from the hospital in the reporting year, broken down by age group and gender.
+Data source:
+The survey covers all hospitals that settle their accounts based on the DRG reimbursement system and are subject to the scope of § 1 of the Hospital Remuneration Act (KHEntgG). This also includes hospitals of the Bundeswehr (German Armed Forces) that treat civilian patients and clinics of the accident insurance associations for which the treatment costs are not reimbursed by accident insurance but by health insurance. Excluded are hospitals in the penal or security detention system and police hospitals, as well as psychiatric facilities for psychosomatics and psychotherapeutic medicine.
+Gender
+The third gender in official statistics - recording and identification of the characteristics "diverse" and "not specified".
+In order to maintain confidentiality, the third gender cannot be published in this publication. The characteristics "diverse" and "not specified" are randomly assigned to the categories "male" and "female" (without proportional quota, with an expected value of 0.5).
+Procedures
+All significant surgical procedures and medical procedures that are carried out from the time of admission to the time of discharge and can be coded according to the official Operation and Procedure Classification (OPS) are to be coded by the hospitals in accordance with the German coding guidelines. This includes diagnostic, therapeutic, and nursing procedures. The key includes: diagnostic measures, imaging diagnostics, surgeries, non-operative therapeutic measures, medications, and additional measures. The definition of a significant procedure is that it is either of a surgical nature, bears a risk of intervention or anesthesia, requires special facilities or equipment, or requires special training. The current official version of the Operation and Procedure Classification is decisive for each reporting year.
+Excursus: OPS
+The official Operation and Procedure Classification (OPS, until 2004 OPS-301) is used to encode operations and other medical procedures in inpatient care and in the field of outpatient surgery. It is the official procedure classification for performance records and billing of German hospitals.
+The classification has been published and provided since 1993 by the Federal Institute for Drugs and Medical Devices (BfArM) on behalf of the Federal Ministry of Health in accordance with §§ 295 and 301 SGB V. The OPS is predominantly structured in a numerical-hierarchical manner and has a topographical-anatomical structure. A subject-specific structure has been omitted. The hierarchical classes include chapters, section headings, 3-digit codes, 4-digit codes, 5-digit codes, and 6-digit codes. In some areas, an alphanumeric specification or structure is used, including for the designation of the residual classes "Other Operations" (supplemented by the identifier "x") and "Operation Not Otherwise Specified" (supplemented by the identifier "y").
+Note on multiple entries:
+For the representation of complex procedures and partial measures, coding of operations with multiple codes is provided in various areas. Furthermore, the treatment of intraoperative complications is to be coded separately. Therefore, the publication shows multiple codes (without duplicates) per treatment case.
+You can find the Operation and Procedure Classification, Version 2021 on the website of the Federal Institute for Drugs and Medical Devices (BfArM) at https://www.dimdi.de/static/de/klassifikationen/ops/kode-suche/opshtml2021/. They can be downloaded there for free in various storage formats.Context: DRG Statistics 2021 Inpatient Patients in Hospitals 1
+Operations and Procedures (OPS Version 2021)
+1.1 By section headings and age groups
+1.1.1 Total
+No. Total Of which aged from… to under… years
+Nr. Total 3under 1 1 - 5 5 - 10 10 - 15 15 - 20 20 - 25 25 - 30 30 - 35 35 - 40 40 - 45 45 - 50 50 - 55 55 - 60 60 - 65 65 - 70 70 - 75 75 - 80 80 - 85 85 - 90 90 - 95 95 and older
+Number 4
+1 Total 60,795 644 2,038,373 431,133 328,729 391,134 652,199 958,301 1,382,665 1,945,508 1,788,792 1,744,704 2,094,799 3,486,060 4,954,695 5,708,491 6,083,603 6,361,016 6,481,520 7,764,334 4,270,000 1,586,692 342,616
+2 1 Diagnostic measures 10,064,944 609,815 82,116 67,294 79,248 121,450 147,400 173,740 226,421 248,494 284,585 352,739 588,316 840,429 976,051 1,050,939 1,095,658 1,095,933 1,231,926 590,890 172,920 28,572
+3 1-10 — 1-10 Clinical examination 20,158 834 1,284 734 617 491 495 668 840 753 745 755 1,178 1,530 1,582 1,541 1,568 1,527 1,734 865 339 78
+4 1-20 — 1-33 Examination of individual body systems 3,521,115 586,634 46,725 37,900 38,673 49,599 51,533 55,768 68,453 74,001 86,587 108,050 180,124 257,457 288,850 310,937 336,943 349,904 381,473 164,988 40,776 5,738
+5 1-40 — 1-49 Biopsy without incision 1,368,744 1,048 4,017 4,716 8,727 16,642 20,861 24,462 32,019 37,388 43,651 53,875 87,384 122,011 142,975 154,974 159,962 157,727 181,320 87,414 24,143 3,427
+6 1-50 — 1-58 Biopsy by incision 94,616 641 587 485 697 1,147 2,037 2,788 3,962 3,877 4,196 4,515 7,131 9,276 10,230 10,305 10,123 9,153 9,015 3,536 814 101
+7 1-61 — 1-69 Diagnostic endoscopy 3,147,578 5,591 12,509 9,530 13,624 31,091 48,166 57,497 75,433 85,182 98,022 120,905 198,247 276,413 322,599 348,156 357,569 358,179 425,695 222,434 69,294 11,440
+8 1-70 — 1-79 Functional tests 1,080,713 5,435 5,666 6,068 7,954 9,713 9,450 11,612 16,051 19,613 25,765 35,970 66,806 105,185 131,287 141,982 143,283 131,152 131,962 56,676 16,251 2,830
+9 1-84 — 1-85 Exploratory diagnostic measures 259,596 473 380 325 380 843 1,617 2,118 3,128 4,260 5,661 7,808 14,896 23,396 29,945 33,522 34,688 32,833 36,756 18,826 6,549 1,192
+10 1-90 — 1-99 Other diagnostic measures 572,424 9,159 10,948 7,536 8,576 11,924 13,241 18,827 26,535 23,420 19,958 20,861 32,550 45,161 48,583 49,522 51,522 55,458 63,971 36,151 14,754 3,766
+11 3 Imaging diagnostics 13,867,968 38,832 39,762 36,079 53,067 124,148 184,476 212,642 284,701 325,838 389,365 485,333 809,185 1,153,860 1,343,441 1,464,587 1,553,138 1,639,088 2,045,407 1,157,069 433,796 94,042
+12 3-03 — 3-05 Ultrasound examinations 1,537,544 12,877 2,693 1,756 2,321 7,008 15,188 23,454 33,927 34,160 37,784 49,852 87,750 131,094 155,810 175,104 192,036 198,474 231,458 109,733 30,248 4,816
+13 3-10 — 3-13 Projection radiography 387,064 3,438 1,806 1,175 974 1,970 4,943 7,432 11,336 13,502 16,569 20,201 34,541 42,193 45,797 47,098 42,417 35,510 35,427 15,656 4,391 688
+14 3-20 — 3-26 Computed tomography (CT) 6,794,197 1,871 4,479 4,934 10,114 47,471 80,434 87,772 116,488 140,090 174,363 219,729 368,585 532,653 627,592 691,525 752,182 826,369 1,093,744 672,862 276,871 63,970
+15 3-30 — 3-31 Optical procedures 43,802 27 106 147 256 478 616 777 971 1,100 1,238 1,705 2,929 4,374 4,729 5,338 5,448 5,197 5,482 2,268 541 75
+16 3-60 — 3-69 Visualization of vascular system 650,501 929 978 780 1,069 1,758 2,697 3,485 5,456 7,666 10,971 16,702 32,602 58,129 77,013 87,608 88,547 87,535 99,841 49,190 14,930 2,614
+17 3-70 — 3-76 Nuclear medicine diagnostic procedures 283,353 988 1,058 568 677 1,254 2,090 3,036 5,107 6,623 9,085 12,375 21,814 28,484 34,219 37,658 35,534 33,726 33,123 12,926 2,641 367
+18 3-80 — 3-84 Magnetic resonance imaging (MRI) 1,919,238 12,269 20,792 19,801 27,555 42,900 47,600 51,350 63,742 67,541 73,685 84,163 128,261 169,638 183,540 189,338 192,008 192,051 217,786 102,632 28,375 4,211
+19 3-90 — 3-90 Other imaging procedures 32,865 24 18 38 58 70 98 120 177 314 482 826 1,939 2,902 3,303 3,343 3,823 4,476 5,940 3,393 1,303 218
+20 3-99 — 3-99 Additional information on imaging procedures 2,219,404 6,409 7,832 6,880 10,043 21,239 30,810 35,216 47,497 54,842 65,188 79,780 130,764 184,393 211,438 227,575 241,143 255,750 322,606 188,409 74,496 17,083
+21 5 Operations 15,838,178 63,633 117,648 100,417 128,765 239,107 407,547 623,052 882,851 761,644 669,749 741,661 1,149,869 1,504,655 1,584,753 1,524,787 1,511,468 1,404,884 1,475,283 681,666 220,027 44,689
+22 5-01 — 5-05 Operations on the nervous system 789,375 5,326 4,374 4,061 5,562 9,266 12,390 15,801 24,234 30,636 37,976 46,226 69,817 91,133 90,197 80,688 80,898 76,261 73,365 25,335 5,119 710
+23 5-06 — 5-07 Operations on endocrine glands 133,248 185 282 188 318 1,026 2,183 3,800 6,475 8,632 11,058 12,830 18,270 19,779 16,087 12,389 9,758 5,770 3,396 742 73 7
+24 5-08 — 5-16 Operations on the eyes 604,335 1,614 3,223 5,077 3,042 3,440 4,703 6,178 8,499 9,172 11,442 16,019 34,081 54,214 67,010 76,621 82,611 79,492 86,369 39,028 10,887 1,609
+25 5-18 — 5-20 Operations on the ears 118,968 1,491 10,928 6,936 4,490 3,867 4,060 4,753 5,706 6,147 5,845 5,898 7,697 8,622 8,356 7,117 6,537 6,629 8,042 4,169 1,398 280
+26 5-21 — 5-22 Operations on nose and nasal sinuses 347,352 567 886 1,235 2,733 20,030 38,007 38,991 38,114 31,328 27,074 23,464 26,973 26,927 20,110 14,748 11,250 9,135 9,423 4,583 1,476 298
+27 5-23 — 5-28 Operations on oral cavity and face 207,929 6,929 21,086 10,986 4,873 9,464 11,664 9,127 9,023 8,187 7,653 8,199 12,110 15,273 15,614 14,005 12,158 10,852 12,092 6,226 1,988 420
+28 5-29 — 5-31 Operations on pharynx, larynx, and trachea 106,380 429 474 332 288 570 995 1,420 2,218 2,662 3,475 4,972 9,207 13,393 15,873 15,834 13,567 10,561 7,531 2,181 348 50
+29 5-32 — 5-34 Operations on lungs and bronchi 169,308 1,191 471 272 552 2,238 2,412 2,543 3,119 3,544 4,657 6,126 11,528 18,842 23,397 24,589 23,800 19,412 14,955 4,660 877 123
+30 5-35 — 5-37 Operations on the heart 385,058 6,811 2,586 968 885 888 1,133 1,400 2,262 2,989 4,386 6,987 15,102 26,606 36,918 45,762 54,317 60,086 70,830 33,464 9,248 1,430
+31 5-38 — 5-39 Operations on blood vessels 675,861 2,388 2,175 1,379 1,384 2,207 3,097 5,302 9,174 12,314 15,971 21,169 38,956 65,884 88,537 100,585 97,566 84,767 81,793 31,834 8,112 1,267
+32 5-40 — 5-41 Operations on hematopoietic and lymphatic systems 192,470 183 738 512 635 1,135 1,656 2,260 3,834 5,405 7,945 10,657 18,881 22,808 25,115 25,658 21,828 19,002 17,214 5,769 1,095 139
+33 5-42 — 5-54 Operations on the digestive tract 2,466,765 18,215 8,030 8,246 11,916 22,733 39,364 54,682 78,249 87,174 97,226 113,370 177,988 235,034 256,131 267,153 269,739 253,639 281,342 136,526 42,616 7,392
+34 5-55 — 5-59 Operations on the urinary organs 561,734 1,874 3,770 1,983 1,261 2,671 7,278 11,141 15,651 17,791 20,316 24,280 37,212 51,613 59,599 65,337 67,863 63,529 67,871 30,649 8,730 1,315
+35 5-60 — 5-64 Operations on the male genital organs 212,557 4,131 13,107 5,967 6,483 5,005 4,951 4,544 4,630 3,921 3,900 4,180 8,076 15,049 21,202 25,729 27,964 23,490 20,304 7,859 1,833 232
+36 5-65 — 5-71 Operations on the female genital organs 572,967 253 167 257 1,480 6,904 20,956 40,400 65,608 70,045 68,969 65,504 54,532 38,778 33,271 30,900 27,943 21,818 17,866 5,933 1,222 158
+37 5-72 — 5-75 Obstetric operations 961,064         -         -         - 130 12,624 78,177 234,493 377,833 210,197 45,181 2,232 169 24   -         -         -         -         -         -         -
+38 5-76 — 5-77 Operations on jaw and facial bones 76,370 165 452 677 947 5,566 9,016 6,923 5,746 4,556 3,918 3,530 4,575 5,445 5,006 4,684 4,071 3,897 4,270 2,187 605 134
+39 5-78 — 5-86 Operations on the musculoskeletal system 4,357,197 2,177 12,989 34,407 64,451 91,930 109,196 114,111 135,226 147,758 179,714 230,714 391,103 516,578 506,235 417,045 403,976 367,010 372,841 176,993 66,524 16,215
+40 5-87 — 5-88 Operations on the breast 157,485 42 5 5 120 2,288 3,894 3,731 5,519 7,683 10,923 13,553 22,203 19,382 17,975 16,689 11,266 9,822 8,601 3,039 648 96
+41 5-89 — 5-92 Operations on the skin and subcutaneous tissue 1,233,516 5,832 22,881 9,952 10,097 21,303 29,249 30,882 38,470 40,059 41,676 48,304 74,019 97,385 103,805 106,450 112,633 124,896 166,128 98,771 40,720 9,995
+42 5-93 — 5-99 Additional information on operations 1,508,239 3,830 9,024 6,977 7,118 13,952 23,166 30,570 43,261 51,444 60,444 73,447 117,370 161,886 174,312 172,804 171,723 154,816 151,050 61,718 16,508 2,819
+43 6 Medications 408,084 13,683 4,322 4,677 5,307 5,893 4,869 5,232 7,051 8,287 10,859 15,114 27,594 43,654 53,344 57,876 50,940 41,722 35,018 10,622 1,857 163
+44 6-00 — 6-00 Administration of medications 408,084 13,683 4,322 4,677 5,307 5,893 4,869 5,232 7,051 8,287 10,859 15,114 27,594 43,654 53,344 57,876 50,940 41,722 35,018 10,622 1,857 163
+45 8 Non-operative therapeutic measures 14,640,664 527,862 149,202 85,571 91,137 123,372 141,659 198,195 281,382 286,254 323,077 438,276 791,093 1,211,247 1,475,667 1,630,393 1,699,589 1,705,325 1,988,139 1,048,933 368,370 75,789
+46 8-01 — 8-02 Administration of medications and nutrition and therapeutic injection 376,690 100,371 8,973 4,942 5,196 5,855 4,712 6,243 8,114 7,683 8,355 10,317 17,886 24,918 26,648 26,841 27,422 27,419 31,133 16,155 6,163 1,343
+47 8-03 — 8-03 Immunotherapy 6,263 1 14 228 237 239 205 257 383 452 503 554 790 804 636 472 299 127 59 3   -
+48 8-10 — 8-11 Removal of foreign material and concrements 37,576 528 1,985 813 460 705 1,046 1,022 1,253 1,360 1,505 1,797 2,911 3,659 3,739 3,600 3,157 2,813 3,009 1,507 571 135
+49 8-12 — 8-13 Manipulations on the digestive and urinary tracts 723,782 7,259 4,674 3,745 3,973 4,529 7,999 11,821 17,026 19,528 21,793 26,319 42,456 60,875 72,822 80,983 86,476 84,113 97,167 49,786 17,287 3,151
+50 8-14 — 8-17 Therapeutic catheterization, aspiration, puncture, and irrigation 473,133 3,291 3,474 2,360 2,148 3,424 4,524 5,642 7,572 9,027 10,918 14,400 25,724 39,184 47,668 53,980 56,648 57,305 67,850 39,213 15,565 3,215
+51 8-19 — 8-19 Bandages 293,279 1,244 3,616 1,172 1,124 2,327 3,288 3,756 5,089 6,036 6,967 9,276 15,744 23,588 28,722 31,705 33,213 33,574 42,841 26,236 11,078 2,683
+52 8-20 — 8-22 Closed reduction and correction of deformities 48,064 893 1,035 2,114 1,861 1,062 1,024 1,009 1,023 1,097 1,226 1,625 2,896 3,847 3,945 3,648 3,781 4,319 5,832 3,701 1,661 465
+53 8-31 — 8-39 Immobilization and special positioning 149,813 17,581 1,398 1,968 2,353 1,434 1,192 1,197 1,739 2,212 2,949 4,081 6,962 10,087 12,589 13,415 13,964 14,706 18,802 12,852 6,560 1,772
+54 8-40 — 8-41 Bone extension and other extension procedures 4,328 7 42 76 140 102 72 74 101 123 168 224 373 460 424 412 378 349 410 245 121 27
+55 8-50 — 8-51 Tamponade of bleeding and manipulation of fetus or uterus 73,908 11 50 108 287 1,925 4,453 7,593 10,244 6,510 3,651 2,874 3,899 4,479 4,546 4,550 4,333 4,477 5,352 3,174 1,167 225
+56 8-52 — 8-54 Radiation therapy, nuclear medicine therapy, and chemotherapy 914,360 2,454 12,198 8,905 8,858 10,902 9,998 11,603 16,356 19,793 25,237 33,618 64,763 101,842 126,325 136,179 119,513 94,627 79,445 25,597 5,447 700
+57 8-55 — 8-60 Early rehabilitation and physical therapy 805,798 49,147 3,008 2,801 4,293 4,922 4,855 5,363 7,122 8,722 10,836 15,240 27,514 40,508 48,430 56,893 76,024 99,687 156,929 115,385 54,837 13,282
+58 8-63 — 8-66 Electrostimulation and electrotherapy and duration of treatment using focused ultrasound 306,522 502 271 262 705 802 791 1,017 1,694 2,599 3,958 6,735 14,313 24,369 31,797 39,375 46,112 49,808 53,617 22,383 4,857 554
+59 8-70 — 8-72 Measures for the respiratory system 774,636 119,347 5,854 2,213 2,328 3,057 3,870 5,064 7,946 10,687 14,628 21,580 38,823 61,668 79,768 90,349 91,065 83,529 84,391 37,420 9,538 1,511
+60 8-77 — 8-77 Measures in the context of resuscitation 89,371 2,300 206 67 73 197 314 397 691 984 1,346 2,070 3,926 6,289 8,408 10,387 11,453 12,039 15,441 8,985 3,239 559
+61 8-80 — 8-85 Measures for the circulatory system 4,560,834 55,760 18,078 10,733 12,450 17,669 20,547 27,333 42,840 56,207 78,644 123,001 242,579 400,515 511,722 581,776 602,861 603,517 689,330 339,826 105,261 20,178
+62 8-86 — 8-86 Therapy with special cells and blood components 2,818 2 5 14 17 59 76 113 121 95 133 184 275 330 327 298 309 233 174 43 7 3
+63 8-90 — 8-91 Anesthesia and pain therapy 1,083,491 13,545 24,887 16,599 15,329 18,685 28,465 61,455 88,271 58,696 38,844 43,559 74,863 102,124 103,740 91,466 90,577 83,013 83,296 34,873 9,526 1,674
+64 8-92 — 8-93 Patient monitoring 2,361,922 133,626 41,341 18,571 20,713 33,456 30,337 30,100 39,290 44,983 54,585 71,217 120,593 178,152 214,219 237,912 254,064 263,141 321,706 177,482 63,283 13,036
+65 8-97 — 8-98 Complex treatment 1,545,361 19,989 18,081 
