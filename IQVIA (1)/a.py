@@ -1231,13 +1231,13 @@ elif selected_option == "PDF Converter (OCR)":
 # ═════════════════════════════════════════════
 # MODULE 3 — RESEARCH PAPER CHATBOT
 # ═════════════════════════════════════════════
-elif selected_option == "Research Paper Analyser":
+elif selected_option == "Case Report Analyser":
 
     # ── Page Header ──
     st.markdown("""
     <div class="rp-header">
         <div class="rp-tag">Module 03</div>
-        <h2>Case Report <em>Chatbot</em></h2>
+        <h2>Case Report Analyser <em>Chatbot</em></h2>
         <p>Upload a clinical case report— then ask anything in natural conversation. Drugs, side effects, diagnoses, causality, and more.</p>
     </div>
     <div class="rp-steps">
