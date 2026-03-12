@@ -1,6 +1,7 @@
 streamlit
+openai
 PyPDF2
-pandas
-numpy
-PyPDF2
+pymupdf
 pdf2image
+pytesseract
+Pillow
