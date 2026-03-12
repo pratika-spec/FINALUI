@@ -1046,7 +1046,7 @@ with st.sidebar:
    
     st.markdown('<p class="nav-label">Select Module</p>', unsafe_allow_html=True)
     selected_option = st.selectbox(
-        "Module", ["Language Converter", "PDF Converter (OCR)", "Research Paper Analyser"],
+        "Module", ["Language Converter", "PDF Converter (OCR)", "Case Report Analyser"],
         label_visibility="collapsed"
     )
     
@@ -1237,8 +1237,8 @@ elif selected_option == "Research Paper Analyser":
     st.markdown("""
     <div class="rp-header">
         <div class="rp-tag">Module 03</div>
-        <h2>Research Paper <em>Chatbot</em></h2>
-        <p>Upload a clinical case report or research paper — then ask anything in natural conversation. Drugs, side effects, diagnoses, causality, and more.</p>
+        <h2>Case Report <em>Chatbot</em></h2>
+        <p>Upload a clinical case report— then ask anything in natural conversation. Drugs, side effects, diagnoses, causality, and more.</p>
     </div>
     <div class="rp-steps">
         <div class="rp-step on"><div class="n">1</div> Upload Case Report</div>
